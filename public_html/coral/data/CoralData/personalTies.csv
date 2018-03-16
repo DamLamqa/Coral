@@ -1,0 +1,156 @@
+Name,Actor,Edge,Actor2,Year,Name2
+Jan Van Leefdael,1,Married,2,1626,Johanna Casteleyn
+Gerard Van der Strecken,3,Married,4,1630,Maria Van Leefdael
+Willem Van Leefdael,7,Married,18,1650,Cornelia Wouters
+Hieronymus Van der Strecken,11,Married,24,1648,Anna Roothoofds
+Frans Wouters,16,Married,17,1630,Cornelia Beerens
+Jan Van Leefdael,1,Siblings,4,,Maria Van Leefdael
+Jan Van Leefdael,1,Parent,5,,Anna Van Leefdael
+Jan Van Leefdael,1,Parent,6,,Gielis Van Leefdael
+Jan Van Leefdael,1,Parent,7,,Willem Van Leefdael
+Jan Van Leefdael,1,Parent,8,,Johannes Van Leefdael
+Jan Van Leefdael,1,Parent,9,,Maria Van Leefdael
+Johanna Casteleyn,2,Parent,5,,Anna Van Leefdael
+Johanna Casteleyn,2,Parent,6,,Gielis Van Leefdael
+Johanna Casteleyn,2,Parent,7,,Willem Van Leefdael
+Johanna Casteleyn,2,Parent,8,,Johannes Van Leefdael
+Johanna Casteleyn,2,Parent,9,,Maria Van Leefdael
+Gerard Van der Strecken,3,Parent,10,,Johannes Van den Strecken
+Gerard Van der Strecken,3,Parent,11,,Hieronymus Van der Strecken
+Gerard Van der Strecken,3,Parent,12,,Johanna Van der Strecken
+Gerard Van der Strecken,3,Parent,13,,Maria Van der Strecken
+Gerard Van der Strecken,3,Parent,14,,Anna Van der Strecken
+Gerard Van der Strecken,3,Parent,15,,Gerard Van der Strecken
+Maria Van Leefdael,4,Parent,10,,Johannes Van den Strecken
+Maria Van Leefdael,4,Parent,11,,Hieronymus Van der Strecken
+Maria Van Leefdael,4,Parent,12,,Johanna Van der Strecken
+Maria Van Leefdael,4,Parent,13,,Maria Van der Strecken
+Maria Van Leefdael,4,Parent,14,,Anna Van der Strecken
+Maria Van Leefdael,4,Parent,15,,Gerard Van der Strecken
+Frans Wouters,16,Parent,18,,Cornelia Wouters
+Frans Wouters,16,Parent,19,,Marcus Wouters
+Cornelia Beerens,17,Parent,18,,Cornelia Wouters
+Cornelia Beerens,17,Parent,19,,Marcus Wouters
+Willem Van Leefdael,7,Parent,20,,Willem Van Leefdael
+Willem Van Leefdael,7,Parent,21,,Cornelia Van Leefdael
+Willem Van Leefdael,7,Parent,22,,Clara Van Leefdael
+Willem Van Leefdael,7,Parent,23,,Judocus Van Leefdael
+Cornelia Wouters,18,Parent,20,,Willem Van Leefdael
+Cornelia Wouters,18,Parent,21,,Cornelia Van Leefdael
+Cornelia Wouters,18,Parent,22,,Clara Van Leefdael
+Cornelia Wouters,18,Parent,23,,Judocus Van Leefdael
+Hieronymus Van der Strecken,11,Parent,25,,Gerard Van der Strecken
+Hieronymus Van der Strecken,11,Parent,26,,Anna Van der Strecken
+Hieronymus Van der Strecken,11,Parent,27,,Willem Van der Strecken
+Hieronymus Van der Strecken,11,Parent,28,,Judocus Van der Strecken
+Hieronymus Van der Strecken,11,Parent,29,,Maria Van der Strecken
+Hieronymus Van der Strecken,11,Parent,30,,Maria Van der Strecken
+Hieronymus Van der Strecken,11,Parent,31,,Gerard Van der Strecken
+Anna Roothoofds,24,Parent,25,,Gerard Van der Strecken
+Anna Roothoofds,24,Parent,26,,Anna Van der Strecken
+Anna Roothoofds,24,Parent,27,,Willem Van der Strecken
+Anna Roothoofds,24,Parent,28,,Judocus Van der Strecken
+Anna Roothoofds,24,Parent,29,,Maria Van der Strecken
+Anna Roothoofds,24,Parent,30,,Maria Van der Strecken
+Anna Roothoofds,24,Parent,31,,Gerard Van der Strecken
+Anna Leefdael,5,Siblings,6,,Gielis Van Leefdael
+Anna Leefdael,5,Siblings,7,,Willem Van Leefdael
+Anna Leefdael,5,Siblings,8,,Johannes Van Leefdael
+Anna Leefdael,5,Siblings,9,,Maria Van Leefdael
+Gielis Van Leefdael,6,Siblings,7,,Willem Van Leefdael
+Gielis Van Leefdael,6,Siblings,8,,Johannes Van Leefdael
+Gielis Van Leefdael,6,Siblings,9,,Maria Van Leefdael
+Willem Van Leefdael,7,Siblings,8,,Johannes Van Leefdael
+Willem Van Leefdael,7,Siblings,9,,Maria Van Leefdael
+Johannes Van Leefdael,8,Siblings,9,,Maria Van Leefdael
+Johannes Van den Strecken,10,Siblings,11,,Hieronymus Van der Strecken
+Johannes Van den Strecken,10,Siblings,12,,Johanna Van der Strecken
+Johannes Van den Strecken,10,Siblings,13,,Maria Van der Strecken
+Johannes Van den Strecken,10,Siblings,14,,Anna Van der Strecken
+Johannes Van den Strecken,10,Siblings,15,,Gerard Van der Strecken
+Hieronymus Van der Strecken,11,Siblings,12,,Johanna Van der Strecken
+Hieronymus Van der Strecken,11,Siblings,13,,Maria Van der Strecken
+Hieronymus Van der Strecken,11,Siblings,14,,Anna Van der Strecken
+Hieronymus Van der Strecken,11,Siblings,15,,Gerard Van der Strecken
+Johanna Van der Strecken,12,Siblings,13,,Maria Van der Strecken
+Johanna Van der Strecken,12,Siblings,14,,Anna Van der Strecken
+Johanna Van der Strecken,12,Siblings,15,,Gerard Van der Strecken
+Maria Van der Strecken,13,Siblings,14,,Anna Van der Strecken
+Maria Van der Strecken,13,Siblings,15,,Gerard Van der Strecken
+Anna Van der Strecken,14,Siblings,15,,Gerard Van der Strecken
+Cornelia Wouters,18,Siblings,19,,Marcus Wouters
+Willem Van Leefdael,20,Siblings,21,,Cornelia Van Leefdael
+Willem Van Leefdael,20,Siblings,22,,Clara Van Leefdael
+Willem Van Leefdael,20,Siblings,23,,Judocus Van Leefdael
+Cornelia Van Leefdael,21,Siblings,22,,Clara Van Leefdael
+Cornelia Van Leefdael,21,Siblings,23,,Judocus Van Leefdael
+Clara Van Leefdael,22,Siblings,23,,Judocus Van Leefdael
+Gerard Van der Strecken,25,Siblings,26,,Anna Van der Strecken
+Gerard Van der Strecken,25,Siblings,27,,Willem Van der Strecken
+Gerard Van der Strecken,25,Siblings,28,,Judocus Van der Strecken
+Gerard Van der Strecken,25,Siblings,29,,Maria Van der Strecken
+Gerard Van der Strecken,25,Siblings,30,,Maria Van der Strecken
+Gerard Van der Strecken,25,Siblings,31,,Gerard Van der Strecken
+Anna Van der Strecken,26,Siblings,27,,Willem Van der Strecken
+Anna Van der Strecken,26,Siblings,28,,Judocus Van der Strecken
+Anna Van der Strecken,26,Siblings,29,,Maria Van der Strecken
+Anna Van der Strecken,26,Siblings,30,,Maria Van der Strecken
+Anna Van der Strecken,26,Siblings,31,,Gerard Van der Strecken
+Willem Van der Strecken,27,Siblings,28,,Judocus Van der Strecken
+Willem Van der Strecken,27,Siblings,29,,Maria Van der Strecken
+Willem Van der Strecken,27,Siblings,30,,Maria Van der Strecken
+Willem Van der Strecken,27,Siblings,31,,Gerard Van der Strecken
+Judocus Van der Strecken,28,Siblings,29,,Maria Van der Strecken
+Judocus Van der Strecken,28,Siblings,30,,Maria Van der Strecken
+Judocus Van der Strecken,28,Siblings,31,,Gerard Van der Strecken
+Maria Van der Strecken,29,Siblings,30,,Maria Van der Strecken
+Maria Van der Strecken,29,Siblings,31,,Gerard Van der Strecken
+Maria Van der Strecken,30,Siblings,31,,Gerard Van der Strecken
+Godparent 1,32,Godparent,5,,Anna Leefdael
+Godparent 13,44,Godparent,5,,Anna Leefdael
+Gerard Van der Strecken,3,Godparent,6,,Gielis Van Leefdael
+Godparent 14,45,Godparent,6,,Gielis Van Leefdael
+Godparent 2,33,Godparent,7,,Willem Van Leefdael
+Maria Van Leefdael,4,Godparent,7,,Willem Van Leefdael
+Godparent 3,34,Godparent,8,,Johannes Van Leefdael
+Godparent 15,46,Godparent,8,,Johannes Van Leefdael
+Hieronymus Van der Strecken,11,Godparent,9,,Maria Van Leefdael
+Maria Van Leefdael,4,Godparent,9,,Maria Van Leefdael
+Godparent 5,36,Godparent,10,,Johannes Van den Strecken
+Godparent 16,47,Godparent,10,,Johannes Van den Strecken
+Jan Van Leefdael,1,Godparent,11,,Hieronymus Van der Strecken
+Godparent 17,48,Godparent,11,,Hieronymus Van der Strecken
+Godparent 6,37,Godparent,12,,Johanna Van der Strecken
+Johanna Casteleyn,2,Godparent,12,,Johanna Van der Strecken
+Godparent 7,38,Godparent,13,,Maria Van der Strecken
+Godparent 18,49,Godparent,13,,Maria Van der Strecken
+Jan Van Leefdael,1,Godparent,14,,Anna Van der Strecken
+Godparent 19,50,Godparent,14,,Anna Van der Strecken
+Godparent 8,39,Godparent,15,,Gerard Van der Strecken
+Johanna Casteleyn,2,Godparent,15,,Gerard Van der Strecken
+Godparent 25,56,Godparent,18,,Cornelia Wouters
+Godparent 27,57,Godparent,18,,Cornelia Wouters
+Godparent 26,58,Godparent,19,,Marcus Wouters
+Godparent 28,59,Godparent,19,,Marcus Wouters
+Gerard Van der Strecken,3,Godparent,20,,Willem Van Leefdael
+Cornelia Beerens,17,Godparent,20,,Willem Van Leefdael
+Jan Van Leefdael,1,Godparent,21,,Cornelia Van Leefdael
+Cornelia Beerens,17,Godparent,21,,Cornelia Van Leefdael
+Frans Wouters,16,Godparent,22,,Clara Van Leefdael
+Johanna Casteleyn,2,Godparent,22,,Clara Van Leefdael
+Frans Wouters,16,Godparent,23,,Judocus Van Leefdael
+Godparent 20,51,Godparent,23,,Judocus Van Leefdael
+Gerard Van der Strecken,3,Godparent,25,,Gerard Van der Strecken
+Johanna Casteleyn,2,Godparent,25,,Gerard Van der Strecken
+Godparent 9,40,Godparent,26,,Anna Van der Strecken
+Anna Van Leefdael,5,Godparent,26,,Anna Van der Strecken
+Willem Van Leefdael,7,Godparent,27,,Willem Van der Strecken
+Cornelia Wouters,18,Godparent,27,,Willem Van der Strecken
+Godparent 10,41,Godparent,28,,Judocus Van der Strecken
+Godparent 21,52,Godparent,28,,Judocus Van der Strecken
+Godparent 11,42,Godparent,29,,Maria Van der Strecken
+Godparent 22,53,Godparent,29,,Maria Van der Strecken
+Godparent 12,43,Godparent,30,,Maria Van der Strecken
+Godparent 23,54,Godparent,30,,Maria Van der Strecken
+Godparent 4,35,Godparent,31,,Gerard Van der Strecken
+Godparent 24,55,Godparent,31,,Gerard Van der Strecken

@@ -1,0 +1,59 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+#header, #footer {
+  background-color: #DEDEDE;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+#header {
+  margin-bottom: 10px;
+}
+
+#footer {
+  margin-top: 10px;
+}
+
+.viz {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.link {
+    fill: none;
+    stroke: #666;
+    stroke-width: 1.5px;
+}
+
+#parent {
+    fill: green;
+}
+
+.link.parent {
+    stroke: green;
+}
+
+.link.married {
+    stroke-dasharray: 0,2 1;
+}
+
+circle {
+    fill: #ccc;
+    stroke: #333;
+    stroke-width: 1.5px;
+}
+
+.circle.union {
+
+    
+}
+
+text {
+    font: 10px sans-serif;
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}

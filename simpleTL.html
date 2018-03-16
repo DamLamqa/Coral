@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Coral </title>
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+
+</head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109305884-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', 'UA-109305884-1');
+</script>
+
+<style>
+    .dropdown-menu {
+        width: 120px;
+    }
+</style>
+<body>
+<nav id="navMenu"></nav>
+<script src="scripts/simpleFamilyView.js"></script>
+
+<div id="tooltip" class="hidden">
+    <p id="ID"> NA </p>
+    <br/>
+    <p>Birth year: <span id="birthYear"> NA </span></p>
+    <p>Death year: <span id="deathYear"> NA </span></p>
+    <p>Known occupation: <span id="occupation"> NA </span></p>
+
+</div>
+
+<div id="linkTooltip" class="hidden">
+    <p><span id="relFirstActor">  </span></p>
+    <p><span id="relSecondActor">  </span></p>
+    <br/>
+    <p>Relationship start year: <span id="relStart">  </span></p>
+    <p>Relationship end year: <span id="relEnd">  </span></p>
+    <p>Relationship type: <span id="relType">  </span></p>
+
+
+
+</div>
+
+
+
+<div id="linksDiv">
+    <input type="checkbox" id="profLinksCheckBox" >
+    <label style= "font-weight: normal;" for="profLinksCheckBox">Show professional links</label>
+    <br/>
+    <input type="checkbox" id="godLinksCheckBox">
+    <label style= "font-weight: normal;" for="godLinksCheckBox">Show godparenthood links</label>
+</div>
+
+
+<footer>
+    <!--(c) <a href="http://vda-lab.be">Visual Data Analysis Lab, ESAT/STADIUS, KU Leuven</a>-->
+</footer>
+
+</body>
+</html>

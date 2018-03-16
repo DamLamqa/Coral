@@ -1,0 +1,28 @@
+About this directory
+--------------------
+
+By default, the ESAT backup system backups everything in your home directory, 
+except:
+
+ - files/directories (and everything within) called core
+ - files/directories (and everything within) called cache or Cache
+   Software or hardware developers that develop cache-systems should
+   pay attention which file/directory names they use!
+ - files/directories (and everything within) called Trash or trash
+ - files/directories (and everything within) called no_backup or
+   nobackup
+
+Using a no_backup directory allows a user to exclude certain data
+from backup. If you have data that is easier to regenerate (or
+recopy from the original medium) than to restore it from backup,
+you can place it in a no_backup directory.
+
+Because a lot of users don't know this is possible, a no_backup
+directory has been created by default in your homedirectory.
+
+So, if you have data that should be excluded from backups, put it in a
+no_backup directory (and create a symlink to it if necessary).
+
+More information on the ESAT backup system is available at:
+https://securewww.esat.kuleuven.be/local/it/backup/index.en.php
+
